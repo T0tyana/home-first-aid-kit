@@ -3,11 +3,11 @@
 Fullstack-приложение для учета домашних лекарств: сроки годности, список "отдать до срока" для передачи в приют.
 
 ## Стек
--**Frontend:** React + TypeScript + Vite
--**UI-библиотека:** MUI (Material UI)
--**Маршрутизация:** React Router
--**Backend:** (появится позже)
--**БД** (появится позже)
+- **Frontend:** React + TypeScript + Vite
+- **UI-библиотека:** MUI (Material UI)
+- **Маршрутизация:** React Router
+- **Backend:** (появится позже)
+- **БД** (появится позже)
 
 ## Назначение приложения
 
@@ -32,4 +32,7 @@ Fullstack-приложение для учета домашних лекарст
 ```bash
 cd frontend
 npm install
-npm run dev
+```
+
+## Запуск в dev-режиме
+```npm run dev```
